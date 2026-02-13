@@ -10,7 +10,7 @@ It's been running in my own setup for a while now and it's actually helped, so I
 
 ## Preview
 
-![Demo](assets/demo.gif)
+<video src="assets/demo.mp4" autoplay loop muted playsinline></video>
 
 ## Features
 
